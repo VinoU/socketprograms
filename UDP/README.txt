@@ -1,4 +1,4 @@
-This socket program demonstrates an SFTP (Simple File Transfer Protocol) using UDP (User Datagram Protocol) where the file goes through an unreliable channel with bit errors with packet loss. The client sends a text file to the server, and the server sends back an acknowledgment after every data packet is sent. Random functions are implemented to create real unreliable data transfer scenarios such as data error and loss.
+This socket program demonstrates an SFTP (Simple File Transfer Protocol) using UDP (User Datagram Protocol) where the file goes through an unreliable channel with bit errors with packet loss. The client sends a text file to the server, and the server sends back an acknowledgment after every data packet is sent. Random functions are implemented to create real unreliable data transfer scenarios such as data error and loss.lkutkjtjt
 
 How to run the program:
 Step 0: Make sure there’s a text file in the same directory with the client file
